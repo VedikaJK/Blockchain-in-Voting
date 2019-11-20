@@ -1,7 +1,7 @@
 # Election voting system using BlockChain
 ## Motivation 
 
-Shortcomings of tradition system of voting :- <br>
+Shortcomings of traditional system of voting :- <br>
 •	Current voting system is **centralized**, which means there is only one point of centralization, where a **hacker** needs to attack to corrupt the system.  
 •	Anyone with physical access to Electronic voting machine(EVM) can sabotage the machine and **tamper** the number of votes.  
 •	It is not possible for voters to verify that individual votes were counted correctly. Thus there is **no transparency** in the current system.  
