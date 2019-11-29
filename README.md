@@ -24,7 +24,7 @@ Bitcoin has demonstrated in the financial space that trusted, auditable computin
 •	First the physical **authentication** of the voter will be done and the person would retrieve a **token/key** that would allow them to **vote exactly once** and ensure **anonymity** (ring signature). This is the same mechanism used to ensure the double spending problem in bitcoin doesn’t exist, but now with voting.  
 •	The voter will cast vote using the token/key. The vote would be validated by the **Proof of Authority Network** and then a **transaction ID** will be given which would ensure that the vote has been appended successfully into the Blockchain database.  
 •	The votes can’t be tampered as editing a block on the blockchain changes the **hash function** of the block which disturbs the whole chain.  
-•	We’ll be using **Permission Blockchain** (variation of **Consortium based Blockchain**) which is partially centralized where the consensus process is controlled by a preselected set of nodes (the constituencies).  
+•	We will be using **Permission Blockchain** (variation of **Consortium based Blockchain**) which is partially centralized where the consensus process is controlled by a preselected set of nodes (the constituencies).  
 •	A **private network** will be used in order to limit the possibility for an eavesdropper to monitor the traffic or read the incoming data.  
 •	Each voter is bound into a ballot **smart contract** with the district he is enrolled in. Each vote must be agreed upon by district nodes for the vote to get added in the blockchain.  
 
